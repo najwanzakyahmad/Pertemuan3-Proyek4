@@ -6,3 +6,4 @@ Najwan zaky ahmad
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+folder awalnya di push di master
